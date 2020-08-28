@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471940902621",
+    "firebase_url": "https://anujchatapp-85458.firebaseio.com",
+    "project_id": "anujchatapp-85458",
+    "storage_bucket": "anujchatapp-85458.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471940902621:android:db67855a48fad39a1df534",
+        "android_client_info": {
+          "package_name": "com.anujdev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471940902621-9r6h806v8jvq0utta45akknrv2bcs056.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLlLKPX_NaL-6nAINHu0_9_VaPHPegVs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471940902621-9r6h806v8jvq0utta45akknrv2bcs056.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
